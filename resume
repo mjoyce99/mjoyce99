@@ -1,0 +1,93 @@
+<html>
+<head>
+<style>
+header
+{background-color: #A7C7E7;
+  font-family: "copperplate", fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: 30%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: left;
+  
+}
+img
+{
+  width:275px;
+  height:275px;
+}
+footer
+{background-color: #A7C7E7;
+  font-family: "copperplate", fantasy;
+  font-size: 1em;
+}
+</style>
+</head>
+<body>
+<header> <center>Meghan Joyce </center></header>
+<h3><center>meghan_joyce@emerson.edu | 617-599-3689</center></h3>
+
+<aside>
+<img src="https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/174137973_3945307982198786_7606384206921602911_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=g1p2talCxs0AX_lKrMT&_nc_ht=scontent-bos5-1.xx&oh=00_AfApKHs48rWV4lt4iF106fLXkF-zrqH4wyzrnGVw1hIeTA&oe=653AD627" alt="Headshot of Meghan"<br>
+</aside>
+<section id="summary">
+  </section>
+<section id="experience">
+<h2>Professional Experience</h2>
+  <b>Editorial Operations Specialist, CELL PRESS | 2023-Present </b> <br>
+  <ul>
+    <li>Served as the primary point of contact at the Editorial Office for the esteemed scientific journal, Cell Reports. </li>
+    <li>Managed a high volume of internal and external e-mail correspondence, providing exceptional customer service to authors, reviewers, and staff. 
+</li>
+    <li>Supported the editorial team with the day-to-day functioning of the journal. </li>
+    <li>Monitored the peer review process with the goal of obtaining timely feedback from reviewers. </li>
+    <li>Conducted thorough technical reviews on accepted manuscripts, ensuring strict adherence to publication guidelines. </li>
+  </ul>
+    <br>
+  <b>Editorial Intern, The Bridge: Journal of Art and Literature | 2021-2022 </b>
+    <ul>
+      <li>Published various pieces online and effectively promoted an award-winning journal across social media platforms including Instagram, Twitter, Facebook, and a dedicated website. </li>
+      <li>Collaborated with graphic designers to ensure the seamless integration of visual elements such as photographs and artwork, thereby enhancing the overall page layouts. </li>
+      <li>Diligently proofread and provided editorial feedback on 25 submissions per week. </li>
+      <li>Successfully revamped the WordPress website by creating dedicated sections for each accepted genre, leading to a notable increase in web traffic.<li>Assumed responsibility for crafting and reviewing front and back matter for each issue of the journal.</li>
+      
+    
+  </section>
+<section id="education">
+<h2>Education</h2>
+  <b>EMERSON COLLEGE | Boston, MA </b><br>
+  Master's of Publishing and Writing | 2023 - Present <br>
+  <br>
+  <b>BRIDGEWATER STATE UNIVERSITY | Bridgewater, MA </b><br>
+  Bachelor or Arts | <i> Summa Cum Laude </i>| 2018-2022<br>
+  Majors: English and Communications <br>
+  
+Concentrations: Creative Writing; Film and Media Studies <br>
+  Honors: Commonwealth Honors Program, FSL and BSU Dean’s List <br>
+  
+
+  </section>
+<section id="awards">
+<h2>Awards</h2>
+President’s Award for Educational Excellence | 2018
+  </section>
+  <section id="skills">
+    <h2>Leadership and Activities</h2>
+Alpha Sigma Tau Sorority – Director of Public Relation | 03/2020 - 05/2022 <br>
+    Program Council – Vice President of Marketing, Director of Social Media | 09/19 - 05/2022 <br>
+    Order of Omega Honor Society – Organizational Member | 03/2021 - 05/2022
+    <section>
+<h2>Skills</h2>
+<h3>Software</h3>
+Copyediting, Editing and Proofreading, Story Development and Writing, AP Stylebook, Social Media Management, Event Planning and Management, Task Prioritization, Photography, Camerawork, Content Creation<h3>Soft Skills</h3>
+Zoom, Microsoft Teams, Final Cut Pro X, Canva, Microsoft Office (and Mac Counterparts), WordPress, Adobe Acrobat  </section>
+  <p>
+  <footer><center>
+    Email me: meghan_joyce@emerson.edu </center>
+  </footer>
+</body>
+</html>
